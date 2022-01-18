@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x94791b26Cf71cBfEcdFB095223594a8F3403C563",
+  "SCAN_LINK": "https://polygonscan.com/token/0x94791b26Cf71cBfEcdFB095223594a8F3403C563",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Ape Social Club",
+  "SYMBOL": "PASCNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 68,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelapesocialclub",
+  "SHOW_BACKGROUND": true
+}
