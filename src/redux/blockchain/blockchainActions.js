@@ -65,6 +65,9 @@ export const connect = () => {
             abi,
             CONFIG.CONTRACT_ADDRESS
           );
+
+          console.log('====================')
+          console.log(accounts[0]);
           dispatch(
             connectSuccess({
               account: accounts[0],
